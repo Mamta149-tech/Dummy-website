@@ -1,0 +1,117 @@
+.nav-header 
+{
+    background-color: #FF6600;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 1vw;
+    padding-bottom: 1vw;
+}
+.social-button
+{
+    color: #FF6600;
+}
+.social-button:hover
+{
+    background-color: #FF6600;
+    color: white;
+}
+.subscribe
+{
+    color: white;
+    background-color: #FF6600;
+    border: 0.2vw solid #FF6600;
+}
+.subscribe:hover
+{
+    color: white;
+}
+.footer-text
+{
+    font-size: 1.5vw;
+}
+.email-input
+{
+    padding-left: 28vw;
+    padding-right: 28vw;
+}
+.footer-link
+{
+    color:black;
+    text-decoration: none;
+}
+.footer-link:hover
+{
+    color:#FF6600;
+}
+.chevron-color
+{
+    color: #FF6600;
+}
+.copyright-content
+{
+    text-align: right;
+}
+.missioned
+{
+    color: #0F394C;
+    font-weight: 700;
+    font-family: "Dosis", sans-serif;
+}
+.limiter
+{
+    background-color: #f7b42c;
+    background-image: linear-gradient(315deg, #f7b42c 0%, #fc575e 74%);
+    padding-left: 17vw;
+    padding-right: 17vw;
+}
+.ms-n5 
+{
+    margin-left: -45vw;
+}
+
+.input-group-div
+{
+    border: 1px gray solid;
+    border: none;
+    background-color: #E6E6E6;
+}
+.input-email:focus 
+{
+    background-color: #E6E6E6;
+    border-color: inherit;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.zoom
+{
+  transition: transform .2s;
+}
+.zoom:hover 
+{
+  transform: scale(1.2);
+}
+.lastcontent
+{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+.font-title
+{
+    font-size: 8vw;
+    font-weight: bold;
+    color: yellow;
+    padding-top: 10vw;
+}
+  
+.ipl-title:hover
+{
+    color:cadetblue;
+}
+.social-icon
+{
+    color:#FF6600;
+}
+.social-icon:hover
+{
+    color: white;
+    background: #FF6600;
+}
